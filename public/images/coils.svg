@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" role="img" aria-labelledby="title description">
+  <title id="title">Steel coils placeholder</title>
+  <desc id="description">Stylised metallic steel coils in an industrial warehouse.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#26384f"/><stop offset="1" stop-color="#101824"/></linearGradient>
+    <linearGradient id="metal" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#e0e7ef"/><stop offset=".35" stop-color="#8292a4"/><stop offset=".65" stop-color="#d7e0e8"/><stop offset="1" stop-color="#536477"/></linearGradient>
+  </defs>
+  <path fill="url(#bg)" d="M0 0h720v480H0z"/>
+  <path fill="#101a27" d="M0 374h720v106H0z"/>
+  <g transform="translate(95 75)">
+    <ellipse cx="150" cy="252" rx="114" ry="38" fill="#202f42"/>
+    <path fill="url(#metal)" stroke="#dfe7ef" stroke-opacity=".6" stroke-width="3" d="M36 116v136c0 21 51 38 114 38s114-17 114-38V116"/>
+    <ellipse cx="150" cy="116" rx="114" ry="38" fill="url(#metal)" stroke="#eef3f8" stroke-opacity=".7" stroke-width="3"/>
+    <ellipse cx="150" cy="116" rx="42" ry="18" fill="#202d3d" stroke="#dae2eb" stroke-width="4"/>
+    <ellipse cx="150" cy="116" rx="20" ry="9" fill="#0c141e"/>
+    <path fill="none" stroke="#526478" stroke-width="5" d="M41 146c20 17 61 26 109 26s89-9 109-26m-218 47c20 17 61 26 109 26s89-9 109-26"/>
+  </g>
+  <g transform="translate(390 145) scale(.72)">
+    <ellipse cx="150" cy="252" rx="114" ry="38" fill="#202f42"/>
+    <path fill="url(#metal)" stroke="#dfe7ef" stroke-opacity=".6" stroke-width="3" d="M36 116v136c0 21 51 38 114 38s114-17 114-38V116"/>
+    <ellipse cx="150" cy="116" rx="114" ry="38" fill="url(#metal)" stroke="#eef3f8" stroke-opacity=".7" stroke-width="3"/>
+    <ellipse cx="150" cy="116" rx="42" ry="18" fill="#202d3d" stroke="#dae2eb" stroke-width="4"/>
+    <ellipse cx="150" cy="116" rx="20" ry="9" fill="#0c141e"/>
+  </g>
+</svg>

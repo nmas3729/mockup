@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title description">
+  <title id="title">Steel roofing products</title>
+  <desc id="description">A stack of steel panels with blue protective film.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#37485e"/><stop offset="1" stop-color="#111a27"/></linearGradient>
+    <linearGradient id="metal" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#d4dee8"/><stop offset=".5" stop-color="#8393a5"/><stop offset="1" stop-color="#53667c"/></linearGradient>
+  </defs>
+  <path fill="url(#bg)" d="M0 0h720v400H0z"/>
+  <path fill="#52647a" d="m121 247 335-68 169 44-342 79z"/>
+  <path fill="url(#metal)" d="m93 208 335-68 169 44-342 79z"/>
+  <path fill="none" stroke="#1e5bff" stroke-width="7" d="m93 208 335-68 169 44"/>
+  <path fill="url(#metal)" d="m130 164 335-68 119 42-342 79z"/>
+  <path fill="none" stroke="#dbe4ed" stroke-opacity=".56" stroke-width="3" d="m130 164 335-68 119 42"/>
+  <path fill="url(#metal)" d="m198 119 269-54 75 29-276 57z"/>
+  <path fill="none" stroke="#96a9c1" stroke-opacity=".4" stroke-width="2" d="m0 328 720-139"/>
+</svg>

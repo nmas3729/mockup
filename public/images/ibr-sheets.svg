@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" role="img" aria-labelledby="title description">
+  <title id="title">IBR roofing sheets placeholder</title>
+  <desc id="description">Stylised overlapping IBR-profile steel sheets.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#26384f"/><stop offset="1" stop-color="#101824"/></linearGradient>
+    <linearGradient id="metal" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#d1dce7"/><stop offset=".48" stop-color="#596d84"/><stop offset="1" stop-color="#a8b8c9"/></linearGradient>
+    <pattern id="ribs" width="80" height="40" patternUnits="userSpaceOnUse"><path d="M0 40V15h20V2h40v13h20v25" fill="none" stroke="#1b2b3e" stroke-width="8"/><path d="M0 13h20M60 13h20" fill="none" stroke="#e0e8ef" stroke-opacity=".65" stroke-width="2"/></pattern>
+  </defs>
+  <path fill="url(#bg)" d="M0 0h720v480H0z"/>
+  <path fill="url(#metal)" d="m80 126 470-68 100 48-470 74z"/>
+  <path fill="url(#ribs)" d="m80 126 470-68 100 48-470 74z"/>
+  <path fill="#596b80" stroke="#d9e2ec" stroke-opacity=".55" stroke-width="2" d="m45 225 470-68 145 70-470 76z"/>
+  <path fill="url(#ribs)" d="m45 225 470-68 145 70-470 76z"/>
+  <path fill="none" stroke="#94a7bd" stroke-opacity=".4" stroke-width="2" d="m0 375 720-110M0 420l720-110"/>
+</svg>

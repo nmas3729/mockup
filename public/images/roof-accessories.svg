@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title description">
+  <title id="title">Roofing accessories</title>
+  <desc id="description">A ridge cap, fasteners, and a circular roofing washer shown as product placeholders.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#35445a"/><stop offset="1" stop-color="#101824"/></linearGradient>
+    <linearGradient id="metal" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#c9d4df"/><stop offset=".5" stop-color="#71849a"/><stop offset="1" stop-color="#35465b"/></linearGradient>
+  </defs>
+  <path fill="url(#bg)" d="M0 0h720v400H0z"/>
+  <path fill="url(#metal)" stroke="#dfe7ef" stroke-opacity=".6" stroke-width="3" d="m77 225 145-75 145 75-28 32-117-61-117 61z"/>
+  <path fill="none" stroke="#1e5bff" stroke-width="5" d="m91 222 131-68 131 68"/>
+  <g fill="url(#metal)" stroke="#d5dfe8" stroke-width="2">
+    <path d="m442 120 18-12 18 12-6 87h-24z"/>
+    <path d="m503 152 14-9 14 9-5 72h-18z"/>
+    <path d="m555 123 16-11 16 11-5 89h-22z"/>
+  </g>
+  <g fill="#203044" stroke="#a9b9ca" stroke-width="3">
+    <circle cx="469" cy="242" r="15"/><circle cx="526" cy="250" r="12"/><circle cx="579" cy="243" r="14"/>
+  </g>
+</svg>
