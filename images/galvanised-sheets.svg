@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title description">
+  <title id="title">Galvanised steel sheets</title>
+  <desc id="description">Stacked reflective galvanised steel sheets in a dark industrial setting.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#455365"/><stop offset="1" stop-color="#111a27"/></linearGradient>
+    <linearGradient id="metal" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#e0e6ec"/><stop offset=".45" stop-color="#7c8b9b"/><stop offset=".8" stop-color="#c1ccd6"/><stop offset="1" stop-color="#596b7d"/></linearGradient>
+  </defs>
+  <path fill="url(#bg)" d="M0 0h720v400H0z"/>
+  <path fill="#293849" d="m105 277 381-82 148 47-393 88z"/>
+  <path fill="url(#metal)" stroke="#edf2f6" stroke-opacity=".5" stroke-width="2" d="m104 236 383-78 147 47-394 83z"/>
+  <path fill="url(#metal)" stroke="#edf2f6" stroke-opacity=".46" stroke-width="2" d="m75 190 384-78 145 46-395 83z"/>
+  <path fill="none" stroke="#f3f6f8" stroke-opacity=".48" stroke-width="3" d="m75 190 384-78 145 46"/>
+  <path fill="none" stroke="#25364a" stroke-opacity=".5" stroke-width="2" d="m133 232 382-78m-336 95 382-78"/>
+</svg>

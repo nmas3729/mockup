@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title description">
+  <title id="title">SteelMax delivery placeholder</title>
+  <desc id="description">A delivery truck carrying steel roofing sheets.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#35465c"/><stop offset="1" stop-color="#101824"/></linearGradient>
+    <linearGradient id="metal" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#cbd6e1"/><stop offset="1" stop-color="#718299"/></linearGradient>
+  </defs>
+  <path fill="url(#bg)" d="M0 0h720v400H0z"/>
+  <path fill="#172435" d="M0 300h720v100H0z"/>
+  <path fill="#a9b7c6" d="m185 159 203-37 47 28-203 38z"/>
+  <path fill="#d0dae4" d="m190 149 203-37 47 28-203 38z"/>
+  <path fill="none" stroke="#53677e" stroke-width="7" d="m213 148 177-32m-155 43 177-32"/>
+  <path fill="#c6d1de" d="M137 182h329v119H137z"/>
+  <path fill="#1e5bff" d="M466 213h83l70 57v31H466z"/>
+  <path fill="#263951" d="M522 225h27l47 39h-74z"/>
+  <path fill="#1a293c" d="M112 299h525v19H112z"/>
+  <circle cx="219" cy="312" r="28" fill="#0b111a"/><circle cx="219" cy="312" r="12" fill="#8798aa"/>
+  <circle cx="529" cy="312" r="28" fill="#0b111a"/><circle cx="529" cy="312" r="12" fill="#8798aa"/>
+</svg>

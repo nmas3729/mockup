@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title description">
+  <title id="title">Steel roofing warehouse illustration</title>
+  <desc id="description">An architectural illustration of a warehouse clad in corrugated steel panels.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#111d31"/>
+      <stop offset=".58" stop-color="#202e43"/>
+      <stop offset="1" stop-color="#0b121d"/>
+    </linearGradient>
+    <linearGradient id="wall" x1="0" x2="1" y1="0" y2=".2">
+      <stop stop-color="#152233"/>
+      <stop offset=".55" stop-color="#27384c"/>
+      <stop offset="1" stop-color="#101925"/>
+    </linearGradient>
+    <linearGradient id="roof" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#526d94"/>
+      <stop offset=".4" stop-color="#243c66"/>
+      <stop offset="1" stop-color="#152946"/>
+    </linearGradient>
+    <linearGradient id="shade" x1="0" x2="0" y1="0" y2="1">
+      <stop stop-color="#080c13" stop-opacity="0"/>
+      <stop offset="1" stop-color="#080c13" stop-opacity=".87"/>
+    </linearGradient>
+    <pattern id="ribs" width="31" height="31" patternUnits="userSpaceOnUse">
+      <path d="M7 0v31m16-31v31" stroke="#a9bbd0" stroke-opacity=".14" stroke-width="2"/>
+      <path d="M0 0h2v31H0m27-31h2v31h-2" fill="#020810" fill-opacity=".12"/>
+    </pattern>
+    <pattern id="grid" width="52" height="52" patternUnits="userSpaceOnUse">
+      <path d="M52 0H0v52" fill="none" stroke="#b7c6d8" stroke-opacity=".08"/>
+    </pattern>
+  </defs>
+  <path fill="url(#sky)" d="M0 0h1200v700H0z"/>
+  <path fill="url(#grid)" d="M0 0h1200v700H0z"/>
+  <circle cx="956" cy="158" r="118" fill="#1e5bff" fill-opacity=".045"/>
+  <circle cx="956" cy="158" r="66" fill="none" stroke="#8fa9ce" stroke-opacity=".1"/>
+  <path fill="#0b111a" d="M40 536 647 286l497 121v293H40z"/>
+  <path fill="url(#roof)" stroke="#6684b1" stroke-opacity=".75" stroke-width="3" d="m272 278 435 30 462 124-451 68-479-145z"/>
+  <path fill="#1b2b42" stroke="#5d7698" stroke-opacity=".7" stroke-width="3" d="m239 348 479 152 451-68v270H239z"/>
+  <path fill="url(#wall)" d="m239 348 479 152v202H239z"/>
+  <path fill="url(#ribs)" d="m239 348 479 152v202H239z"/>
+  <path fill="#162435" d="m718 500 451-68v270l-451-1z"/>
+  <path fill="url(#ribs)" d="m718 500 451-68v270l-451-1z"/>
+  <path fill="#101a27" stroke="#425975" stroke-opacity=".7" stroke-width="3" d="m779 558 194 29v107l-194-1z"/>
+  <path fill="#152233" d="m759 550 201 29 47-19-207-29z"/>
+  <path fill="#1e5bff" fill-opacity=".5" d="m272 278 435 30 462 124-451 68-479-145z"/>
+  <path fill="none" stroke="#9bb3d5" stroke-opacity=".42" stroke-width="3" d="m272 278 435 30 462 124"/>
+  <path fill="url(#shade)" d="M0 0h1200v700H0z"/>
+  <path fill="none" stroke="#99acc5" stroke-opacity=".19" stroke-width="2" d="m0 585 1200-139M0 633l1200-139"/>
+</svg>

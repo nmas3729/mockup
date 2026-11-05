@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720" role="img" aria-labelledby="title description">
+  <title id="title">Steel roofing placeholder</title>
+  <desc id="description">A stylised stack of blue-grey roofing panels against an industrial backdrop.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#293b52"/>
+      <stop offset=".52" stop-color="#101a29"/>
+      <stop offset="1" stop-color="#526171"/>
+    </linearGradient>
+    <linearGradient id="sheet" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#becbd9"/>
+      <stop offset=".35" stop-color="#68798d"/>
+      <stop offset=".7" stop-color="#d9e1e9"/>
+      <stop offset="1" stop-color="#46566a"/>
+    </linearGradient>
+    <linearGradient id="sheetDark" x1="0" x2="0" y1="0" y2="1">
+      <stop stop-color="#8192a5"/>
+      <stop offset="1" stop-color="#27384c"/>
+    </linearGradient>
+    <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse">
+      <path d="M56 0H0v56" fill="none" stroke="#b7c6d8" stroke-opacity=".09"/>
+    </pattern>
+  </defs>
+  <path fill="url(#background)" d="M0 0h960v720H0z"/>
+  <path fill="url(#grid)" d="M0 0h960v720H0z"/>
+  <path fill="#09111c" fill-opacity=".72" d="M0 490 960 295v425H0z"/>
+  <path fill="url(#sheetDark)" stroke="#d4deea" stroke-opacity=".45" stroke-width="3" d="m106 422 505-134 231 92-508 147z"/>
+  <path fill="url(#sheet)" stroke="#e1e9f1" stroke-opacity=".6" stroke-width="3" d="m80 350 505-134 253 100-508 146z"/>
+  <path fill="none" stroke="#26364a" stroke-width="18" d="m161 351 505-134m-451 156 505-134m-451 156 505-134m-451 156 505-134"/>
+  <path fill="none" stroke="#e8eef5" stroke-opacity=".48" stroke-width="3" d="m161 344 505-134m-451 156 505-134m-451 156 505-134m-451 156 505-134"/>
+  <path fill="#dbe4ed" fill-opacity=".14" d="m80 350 505-134 253 100-508 146z"/>
+  <path fill="none" stroke="#91a2b7" stroke-opacity=".22" stroke-width="2" d="M0 580 960 385M0 634l960-195"/>
+  <circle cx="793" cy="110" r="68" fill="#1e5bff" fill-opacity=".12"/>
+  <circle cx="793" cy="110" r="45" fill="none" stroke="#83a4ff" stroke-opacity=".22"/>
+  <path fill="#aebdcd" fill-opacity=".82" d="M70 630h330v4H70zm0 15h208v2H70z"/>
+</svg>
